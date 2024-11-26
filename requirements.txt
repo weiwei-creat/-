@@ -1,4 +1,2 @@
 matplotlib
 neo4j
-json
-streamlit
